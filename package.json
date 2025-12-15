@@ -1,5 +1,5 @@
 {
-	"name": "fcc-imperial-metric-converter-boilerplate",
+	"name": "fcc-imperial-metric-converter",
 	"version": "1.0.0",
 	"description": "Metric / Imperial Unit Converter",
 	"main": "server.js",
